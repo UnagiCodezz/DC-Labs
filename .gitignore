@@ -1,0 +1,22 @@
+# Compiled Java files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IDE files
+*.iml
+.idea/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
